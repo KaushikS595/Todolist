@@ -1,0 +1,8 @@
+.background-container{
+    width:fit-content;
+
+
+    background-image: url("https://ik.imagekit.io/vmxg98ksq/HTML/todolistbg.png_updatedAt=1700761069523");
+    height: 100vh;
+    background-repeat: no-repeat;
+}
